@@ -1,1 +1,1 @@
-![[dm-ml-exam-theory.pdf|Билеты]]
+[Билеты](dm-ml-exam-theory.pdf)
